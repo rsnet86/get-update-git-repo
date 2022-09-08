@@ -49,6 +49,6 @@ count_open() {
 count_close
 count_open
 send_mail
-
+sleep 300
 
 
